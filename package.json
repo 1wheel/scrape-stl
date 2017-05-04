@@ -1,0 +1,30 @@
+{
+  "name": "scrape-stl",
+  "version": "1.0.0",
+  "description": "scrape-stl",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "d3": "^4.8.0",
+    "d3-queue": "^3.0.5",
+    "glob": "^7.1.1",
+    "indian-ocean": "^2.0.2",
+    "request": "^2.81.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1wheel/scrape-stl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1wheel/scrape-stl/issues"
+  },
+  "homepage": "https://github.com/1wheel/scrape-stl#readme"
+}
