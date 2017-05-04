@@ -6,4 +6,7 @@ var io = require('indian-ocean')
 var queue = require('d3-queue').queue
 var request = require('request')
 
+var {scaleLinear, scaleSqrt} = require('d3')
+
+console.log(scaleLinear)
 module.exports = {_, d3, fs, glob, io, queue, request}
