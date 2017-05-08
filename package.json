@@ -1,6 +1,6 @@
 {
   "name": "scrape-stl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "scrape-stl",
   "main": "index.js",
   "dependencies": {

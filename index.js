@@ -5,8 +5,7 @@ var glob = require('glob')
 var io = require('indian-ocean')
 var queue = require('d3-queue').queue
 var request = require('request')
+var cheerio = require('cheerio')
 
-var {scaleLinear, scaleSqrt} = require('d3')
 
-console.log(scaleLinear)
-module.exports = {_, d3, fs, glob, io, queue, request}
+module.exports = {_, cheerio, d3, fs, glob, io, queue, request}
