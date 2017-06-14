@@ -6,6 +6,7 @@ var io = require('indian-ocean')
 var queue = require('d3-queue').queue
 var request = require('request')
 var cheerio = require('cheerio')
+var jp = require('d3-jetpack')
 
 
-module.exports = {_, cheerio, d3, fs, glob, io, queue, request}
+module.exports = {_, cheerio, d3, jp, fs, glob, io, queue, request}

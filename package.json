@@ -1,11 +1,12 @@
 {
   "name": "scrape-stl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "scrape-stl",
   "main": "index.js",
   "dependencies": {
     "cheerio": "^0.22.0",
     "d3": "^4.8.0",
+    "d3-jetpack": "^2.0.7",
     "d3-queue": "^3.0.5",
     "glob": "^7.1.1",
     "indian-ocean": "^2.0.2",
